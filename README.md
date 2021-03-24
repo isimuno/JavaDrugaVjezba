@@ -6,7 +6,7 @@ orijentiranog programiranja u programskom jeziku Java, uz korištenje
 podklasa i nadklasa kod nasljeđivanja, korištenje modifikatora
 „protected“ i „super“, konstruktora u podklasama, nadjačavanje metoda,
 polimorfizma, apstraktnog metoda i sučelja.
-2. 2. ZADATAK ZA PRIPREMU
+2.2. ZADATAK ZA PRIPREMU
 Proširiti rješenje prve laboratorijske vježbe na način da se kopira
 rješenje te preimenuje u naziv koji sadrži indeks „2“, umjesto „1“. Osim
 same mape s projektom, potrebno je promijeniti i naziv projekta unutar
